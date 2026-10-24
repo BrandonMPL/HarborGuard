@@ -1,0 +1,335 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Initialize Vite + React + TS app and Tailwind": [
+      {
+        "executionId": "57e5813d-8efd-4720-b460-140a27ffccf4",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792875999834
+      },
+      {
+        "executionId": "57e5813d-8efd-4720-b460-140a27ffccf4",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792876301435
+      }
+    ],
+    "1.2 Add minimal Express server and Vite dev proxy": [
+      {
+        "executionId": "9c1cfd10-4679-43b9-8a0b-220be4e23f64",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792876427952
+      },
+      {
+        "executionId": "9c1cfd10-4679-43b9-8a0b-220be4e23f64",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792876657847
+      }
+    ],
+    "1.3 Create env scaffolding and gitignore rules, copy prepared GeoJSON": [
+      {
+        "executionId": "9c1cfd10-4679-43b9-8a0b-220be4e23f64",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792876428886
+      },
+      {
+        "executionId": "9c1cfd10-4679-43b9-8a0b-220be4e23f64",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792876658571
+      }
+    ],
+    "1. Scaffold project, tooling, and prepared data (P0)": [
+      {
+        "executionId": "9c1cfd10-4679-43b9-8a0b-220be4e23f64",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792876658679
+      }
+    ],
+    "2.1 Build `MapView` with base tiles, attribution, and East Boston framing": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792877016704
+      },
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792877327350
+      }
+    ],
+    "6.1 Build prompt and request/response types": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792877017416
+      },
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792877328062
+      }
+    ],
+    "2.2 Add base-map loading and error states": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792877335757
+      },
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792877686102
+      }
+    ],
+    "3.1 Implement static GeoJSON loader": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792877336649
+      },
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792877687039
+      }
+    ],
+    "6.2 Implement `aiService.ts` single-call seam and `/api/assessment` route": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792877337574
+      },
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792877688239
+      }
+    ],
+    "2. East Boston interactive map (P0)": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792877686200
+      }
+    ],
+    "3.2 Render selected `Flood_Layer` and wire `ScenarioSelector`": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792877698077
+      },
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878013276
+      }
+    ],
+    "6.3 Implement no-hallucination validation in `validate.ts`": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792877698942
+      },
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878013922
+      }
+    ],
+    "3. Flood layer loading and scenario switching (P0)": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878013333
+      }
+    ],
+    "6. Secure AI assessment endpoint (P0)": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878013974
+      }
+    ],
+    "4.1 Implement runtime exposure classification in `lib/exposure.ts`": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878022410
+      },
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878275421
+      }
+    ],
+    "4.5 Render station markers and mandatory disclaimer": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878289844
+      },
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878495533
+      }
+    ],
+    "4. Station markers and exposure analysis (P0)": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878495629
+      }
+    ],
+    "5.1 Add provenance helpers and `Legend`": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878504832
+      },
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878739742
+      }
+    ],
+    "7.1 Build `AssessmentPanel` and wire the Generate flow": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878505863
+      },
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878740357
+      }
+    ],
+    "7. AI assessment UI (P0)": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878740430
+      }
+    ],
+    "5.2 Add `SourceBadge` (one-click `Source_Attribution` reveal)": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878746443
+      },
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878975979
+      }
+    ],
+    "5.3 Add `CategoryTag` for the five `Data_Category` labels": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878747048
+      },
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878976606
+      }
+    ],
+    "5.4 Wire labels, attribution, and limitations across displayed values": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792878980230
+      },
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792879158808
+      }
+    ],
+    "5. Provenance, legend, and Data_Category labeling (P0)": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792879158915
+      }
+    ],
+    "8. P0 acceptance checkpoint (P0)": [
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792879163484
+      },
+      {
+        "executionId": "5cc7b0cd-5f0e-4036-ab3e-645d53f0f0a0",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792879805252
+      }
+    ],
+    "9.1 Responsive layout polish": [
+      {
+        "executionId": "fb138252-0c33-46d3-9bea-0db8c5d9ac53",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792880507136
+      },
+      {
+        "executionId": "fb138252-0c33-46d3-9bea-0db8c5d9ac53",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792880898697
+      },
+      {
+        "executionId": "9d6ff5a8-a81e-4c7d-80d7-938ab923f854",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792883056488
+      },
+      {
+        "executionId": "2902ff48-a17f-4b4a-8701-83c5d1111999",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792883516248
+      },
+      {
+        "executionId": "2902ff48-a17f-4b4a-8701-83c5d1111999",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792883721319
+      }
+    ],
+    "9. P1 enhancements (optional, only after P0 works)": [
+      {
+        "executionId": "fb138252-0c33-46d3-9bea-0db8c5d9ac53",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792880898865
+      }
+    ],
+    "9.3 Qualitative `StrategyComparison`": [
+      {
+        "executionId": "b7efc569-469f-44b5-b374-26c5dea7ab41",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792880951533
+      },
+      {
+        "executionId": "b7efc569-469f-44b5-b374-26c5dea7ab41",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792881369654
+      }
+    ],
+    "10.2 Additional config-driven neighborhoods": [
+      {
+        "executionId": "21b6f7a4-ac05-4c61-aea9-32b4363b3b19",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792882205044
+      },
+      {
+        "executionId": "21b6f7a4-ac05-4c61-aea9-32b4363b3b19",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792882681196
+      }
+    ],
+    "10. P2 stretch (optional, must not block P0)": [
+      {
+        "executionId": "21b6f7a4-ac05-4c61-aea9-32b4363b3b19",
+        "chatSessionId": "sess_5cb915f3-0592-420f-aaac-cbe6879ece8e",
+        "timestamp": 1792882681351
+      }
+    ]
+  }
+}

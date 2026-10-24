@@ -1,0 +1,1 @@
+{"type":"module","private":true,"dependencies":{"@turf/bbox-clip":"^7.4.0","@turf/boolean-point-in-polygon":"^7.4.0","@turf/distance":"^7.4.0","@turf/helpers":"^7.4.0","@turf/nearest-point-on-line":"^7.4.0"}}

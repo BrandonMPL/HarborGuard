@@ -1,0 +1,19 @@
+{
+  // Standalone type-check config for the server, including the shared
+  // src/types.ts single source of truth. Not composite (no emit), so it can
+  // safely reference the shared file without the project-reference emit
+  // conflict that tsconfig.node.json (composite) would hit. Used only for
+  // `tsc --noEmit` verification; the dev runtime uses tsx.
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "types": ["node"],
+    "strict": true,
+    "noEmit": true
+  },
+  "include": ["server", "src/types.ts", "src/config/strategies.ts"]
+}

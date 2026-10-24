@@ -1,0 +1,25 @@
+# Dependencies and build output
+node_modules/
+dist/
+coverage/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Credentials
+*.pem
+*.key
+credentials.json
+service-account*.json
+
+# Local datasets
+data/
+# DEPLOYMENT DEPENDENCY: keep public/data/ locally for the demo, but do NOT commit
+# cached MC-FRM-derived geometry until redistribution rights are confirmed.
+public/data/
+
+# Logs and local files
+*.log
+.DS_Store
