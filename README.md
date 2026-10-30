@@ -2,7 +2,7 @@
 
 AI-powered coastal resilience planning for Boston Harbor neighborhoods, built for Hackachusetts 2026.
 
-HarborGuard shows verified Massachusetts Coast Flood Risk Model (MC-FRM) coastal flood extents for East Boston and the Downtown/Waterfront area under 2050 and 2070 sea-level horizons, computes transit-station flood exposure from verified MBTA coordinates, and generates a source-grounded AI resilience assessment — with strict provenance and a no-hallucination guarantee throughout.
+HarborGuard shows verified Massachusetts Coast Flood Risk Model (MC-FRM) coastal flood extents for East Boston and the Downtown/Waterfront area under 2050 and 2070 sea-level horizons, computes transit-station flood exposure from verified MBTA coordinates, and generates a source-grounded AI resilience assessment.
 
 ## What it does
 
